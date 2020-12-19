@@ -35,6 +35,6 @@
     "chalk": "^4.1.0",
     "find-up": "^5.0.0",
     "install-packages": "^0.2.5",
-    "yargs": "^15.4.1"
+    "yargs": "^16.0.3"
   }
 }
